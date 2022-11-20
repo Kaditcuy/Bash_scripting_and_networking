@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+echo "$0"
+set "This" are positional "arguments"
+while [ "$1" ]
+do
+	echo "$1"
+	shift
+done
