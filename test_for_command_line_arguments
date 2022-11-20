@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Bash script to test for command line arguments, nb; $#->keeps a list of all command line arguments passed to script including $0
+
+if [ $# -gt 0 ]; then
+	echo "SCript contains some arguments"
+else
+	echo "Script is empty"
+fi

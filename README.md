@@ -1,3 +1,5 @@
 # Bash Sripting and Networking
 
-## This repository contains programs that aids in learning bash_scripting and networking
+## This repository contains programs that aids in learning bash_scripting and networking.
+
+### Positional Parametres
